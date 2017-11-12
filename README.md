@@ -21,4 +21,10 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* 
+
+# References: 
+
+* Rails OSX setup: https://gorails.com/setup/osx/10.12-sierra
+
+* Backend Tutorial: https://www.youtube.com/watch?v=QojnRc7SS9o
